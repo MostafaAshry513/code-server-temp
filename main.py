@@ -15,7 +15,7 @@ import threading
 stopuser = {}
 token = '7162067056:AAEKGBbpu81rYQUtqP1L4fBOSAtJyokrg8E'
 bot=telebot.TeleBot(token,parse_mode="HTML")
-admin= -1002066189489
+admin= 6258363248
 command_usage = {}
 def reset_command_usage():
 	for user_id in command_usage:
